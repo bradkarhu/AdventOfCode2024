@@ -1,6 +1,7 @@
 puzzle.md
 *.txt
 .py*
+.venv
 
 # don't ignore
 !requirements.txt
