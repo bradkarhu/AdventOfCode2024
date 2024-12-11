@@ -2,6 +2,7 @@ puzzle.md
 *.txt
 .py*
 .venv
+.vscode
 
 # don't ignore
 !requirements.txt
