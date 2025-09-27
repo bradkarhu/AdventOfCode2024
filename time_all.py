@@ -1,5 +1,6 @@
 from os import path
 from subprocess import run
+# ignore this line
 
 print("| Day | p1 cpu | p1 sec | p2 cpu | p2 sec |")
 print("| --- | --- | --- | --- | --- |")
