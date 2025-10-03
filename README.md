@@ -20,7 +20,7 @@ python3 download.py
 python3 time_all.py
 ```
 
-MacBook Pro M1 Max using Python 3.13.1
+MacBook Pro M1 using Python 3.13.1
 
 | Day | p1 cpu | p1 sec | p2 cpu | p2 sec |
 | --- | --- | --- | --- | --- |
